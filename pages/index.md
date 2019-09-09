@@ -4,9 +4,5 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  My name is Brad Johansen and this is my personal blog. I write about whatever comes to mind. You can find even more random thoughts by following me on twitter [here](https://twitter.com/brad_johansen).
 ---
