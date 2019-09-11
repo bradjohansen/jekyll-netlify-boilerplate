@@ -5,7 +5,6 @@ permalink: /
 section: home
 intro_paragraph: >-
   My name is **Brad Johansen** and this is my personal blog. I write about
-  whatever comes to mind. You can find even more random thoughts by following me
-  on twitter [here](https://twitter.com/brad_johansen).
+  finance, policy and politics. You can follow me on twitter [here](https://twitter.com/brad_johansen).
 ---
 
