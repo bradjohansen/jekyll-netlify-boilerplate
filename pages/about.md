@@ -4,15 +4,9 @@ title: About
 permalink: /about
 section: about
 intro_paragraph: |
-  This is an example of a standard Jekyll page. You can edit it with Netlify
-  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
+  Brad Johansen is a young professional based in Houston, TX. He works for [Refinitiv](http://refinitiv.com) and is learning about income share agreements.
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At Refinitiv, I am a customer success manager responsible for our strategic relationships in the oil and gas industry. In addition to my work at Refinitiv, I am the organizer of [Effective Altruism Houston](https://www.meetup.com/Effective-Altruists-Houston/) where I aim to inspire others to be more effective in their giving and in their careers.
 
-### A heading
+The purpose of this website is to test my knowledge and put it out there for you to judge. If you have feedback on anything I have written, please email me at [johansenbradley@gmail.com](mailto:johansenbradley@gmail.com). 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-#### Another heading
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
