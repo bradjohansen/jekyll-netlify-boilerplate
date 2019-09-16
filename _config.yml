@@ -18,7 +18,7 @@ email: johansenbradley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog. I plan to write about whatever I want.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
-url: "https://ecstatic-panini-62ee29.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://bradjohansen.com" # the base hostname & protocol for your site, e.g. https://example.com
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -79,7 +79,6 @@ exclude:
   - README.md
   - LICENSE.txt
   - netlify.toml
-  - feed.xml
   - Gemfile
   - Gemfile.lock
   - node_modules
