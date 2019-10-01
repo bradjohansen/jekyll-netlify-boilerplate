@@ -34,7 +34,7 @@ That's nice.[^1] But how is that a benefit? The benefit is that now student's ca
 
 # Insurance
 
-Income share agreements can also function as an insurance policy for the student. When their income decreases, the amount of income that they are required to pay also decreases. If a student falls on hard times, their payment obligations change to accommodate those hard times.  For example, if a student is injured and has to take unpaid leave from work to recover from their injury, they do not owe anything to the investor. Compared to traditional loans, this an improvement. While some loans have deferment clauses that will pause your payment obligation, they are usually  implemented when a student goes back to school. In other words, unless you decide to go to graduate school, you will always have to make payments on a traditional loan
+Income share agreements can also function as an insurance policy for the student. When their income decreases, the amount of income that they are required to pay also decreases. If a student falls on hard times, their payment obligations change to accommodate those hard times.  For example, if a student is injured and has to take unpaid leave from work to recover from their injury, they do not owe anything to the investor. Compared to traditional loans, this an improvement. While some loans have deferment clauses that will pause your payment obligation, they are usually  implemented when a student goes back to school. In other words, unless you decide to go to graduate school, you will always have to make payments on a traditional loan.
 
 Some private student loan providers, such as [Discover](https://www.discover.com/student-loans/repayment/finance/difference-between-deferment-forbearance), also have a "forbearance" provision that allows you to pause payments in the case of financial hardship, but it can only be used for a maximum of 12 months.
 
@@ -46,6 +46,6 @@ In all income share agreements, the student's payment obligation will adjust wit
 
 *Share your thoughts with me on twitter [here](https://twitter.com/intent/tweet?text=@brad_johansen), or email me at [johansenbradley@gmail.com](mailto:johansenbradley@gmail.com).*
 
----
+Footnotes:
 
 [^1]: Is it nice? [Some people](https://www.daveramsey.com/blog/income-share-agreements) [do not think so](https://www.newamerica.org/education-policy/edcentral/income-share-agreements-arent-solution-student-debt/). They think that this price differentiation (or discrimination, depending on your perspective), leads students away from the true purpose of a university education. They also claim this could lead to discrimination that would run afoul of fair lending practices. For example, if white people make more money on average than black people, should that be factored into an ISA? I will address these concerns in a future post.
