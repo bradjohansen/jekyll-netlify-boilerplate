@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benefits of Income Share Agreements
+title: The Benefits of Income Share Agreements
 author: brad_johansen
 date: '2019-09-30 22:00:20'
 intro_paragraph: >-
