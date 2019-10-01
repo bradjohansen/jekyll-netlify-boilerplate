@@ -9,8 +9,6 @@ intro_paragraph: >-
   agreed upon term.
 categories: income share agreements
 ---
-# Introduction
-
 In this post, I want to introduce the idea of income share agreements and define their basic features.
 
 Fundamental to the idea of an income share agreement (ISAs) is that the amount of money you owe should be based on the amount of income you earn. In this way, ISAs differ from loans because they do not have a traditional interest rate. Instead, when a student receives funds as part of an ISA, they agree to repay the provider based on a percentage of their future income. 
