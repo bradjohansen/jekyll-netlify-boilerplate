@@ -3,6 +3,9 @@ layout: post
 title: Benefits of Income Share Agreements
 author: brad_johansen
 date: '2019-09-30 22:00:20'
+intro_paragraph: >-
+  Income share agreements provide students with flexibility, financial
+  stability, and information.
 categories: income share agreements
 ---
 In my previous post, [I outlined the features of an income share agreement](https://bradjohansen.com/blog/an-introduction-to-income-share-agreements). Today, I will show how income share agreements have better structural incentives, enable price discovery and reduce the student's risk better than traditional loans.
