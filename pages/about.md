@@ -10,5 +10,4 @@ intro_paragraph: >
 ---
 At Refinitiv, I am a customer success manager responsible for our strategic relationships in the oil and gas industry. In addition to my work at Refinitiv, I am the organizer of [Effective Altruism Houston](https://www.meetup.com/Effective-Altruists-Houston/) where I aim to inspire others to be more effective in their giving and in their careers.
 
-The purpose of this website is to test my knowledge and put it out there for you to judge. If you have feedback on anything I have written, please email me at [johansenbradley@gmail.com](mailto:johansenbradley@gmail.com). 
-
+The purpose of this website is to test my knowledge and put it out there for you to judge. Connect with me on Twitter [here](http://twitter.com/brad_johansen).
